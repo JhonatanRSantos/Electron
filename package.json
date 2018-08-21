@@ -1,0 +1,15 @@
+{
+  "name": "application-name",
+  "version": "1.0.0",
+  "description": "Application description",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/JhonatanRSantos/Electron",
+  "author": "Jhonatan R. Santos",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^2.0.7"
+  }
+}
